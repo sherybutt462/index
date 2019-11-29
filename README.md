@@ -39,9 +39,6 @@ public class Number2 {
 
             System.out.println("temp /// = " + temp);
 
-        }
-
-        return sum;
-    }
-
+        } 
+        HELLO AYESHA TREAT KAB DO GY?
 }
